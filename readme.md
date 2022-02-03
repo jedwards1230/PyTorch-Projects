@@ -1,0 +1,1 @@
+A collection of projects for learning about PyTorch and machine learning
