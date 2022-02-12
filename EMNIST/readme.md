@@ -10,5 +10,6 @@ I used various tutorials for the MNIST dataset to put this together and get a go
 
 TODO:
 * Add data augmentation
-* Increase accuracy to at least 90%
+* Ensure loss and accuracy are tracked properly (might've been miscalculating)
+* Increase accuracy to 90%
 * More visualizations in notebook
